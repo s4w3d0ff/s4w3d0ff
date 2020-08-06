@@ -1,4 +1,4 @@
-<img align="left" alt="s4w3d0ff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s4w3d0ff&show_icons=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=merko" />
+<img align="left" alt="s4w3d0ff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s4w3d0ff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true&hide_title=true&theme=merko" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4w3d0ff&layout=compact&hide_border=true&hide_title=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </br>
